@@ -1,0 +1,19 @@
+{
+  "name": "basic-node-task-manager",
+  "version": "1.0.0",
+  "description": "A Basic Node Task Manager to practice server strategies",
+  "main": "app.js",
+  "scripts": {
+    "dev": "noemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
